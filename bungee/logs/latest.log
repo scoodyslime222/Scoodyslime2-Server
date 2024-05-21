@@ -167,3 +167,20 @@
 [22:41:44] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56868]: Logged in as 'Scoodyslime2'
 [22:41:44] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:56868|Scoodyslime2] -> UpstreamBridge has connected
 [22:41:44] [Netty Worker IO Thread #0/INFO]: [Scoodyslime2|/[0:0:0:0:0:0:0:1%0]:56868] <-> ServerConnector [lobby] has connected
+[22:45:26] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:56868|Scoodyslime2] -> UpstreamBridge has disconnected
+[22:45:26] [Netty Worker IO Thread #0/INFO]: [Scoodyslime2] disconnected with: Proxy lost connection to server.
+[22:45:26] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:56868|Scoodyslime2] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:50:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43050]: Connected via websocket
+[22:50:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43050]: Origin header is http://localhost:8081
+[22:50:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43050]: Logged in as 'Scoodyslime2'
+[22:50:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43050|Scoodyslime2] -> UpstreamBridge has connected
+[22:50:32] [Netty Worker IO Thread #2/INFO]: [Scoodyslime2|/[0:0:0:0:0:0:0:1%0]:43050] <-> ServerConnector [lobby] has connected
+[22:50:52] [Netty Worker IO Thread #2/INFO]: [Scoodyslime2] disconnected with: Server closed
+[22:50:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43050|Scoodyslime2] -> UpstreamBridge has disconnected
+[22:50:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43050|Scoodyslime2] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:51:31] [main/INFO]: Command not found
+[22:57:14] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48064]: Connected via websocket
+[22:57:14] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48064]: Origin header is http://localhost:8081
+[22:57:14] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48064]: Logged in as 'Scoodyslime2'
+[22:57:14] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:48064|Scoodyslime2] -> UpstreamBridge has connected
+[22:57:14] [Netty Worker IO Thread #3/INFO]: [Scoodyslime2|/[0:0:0:0:0:0:0:1%0]:48064] <-> ServerConnector [lobby] has connected
